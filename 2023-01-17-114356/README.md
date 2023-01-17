@@ -21,5 +21,5 @@ end;
 $$;
 ```
 
-Tags:
+Tags:  
     #pgsql #for-loop #postgre
