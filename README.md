@@ -1,5 +1,9 @@
 ## keg
-a.k.a Zettelkasten
+a.k.a __Zettelkasten__    
+/Bib -> Bibligrafické informace o zdrojích jako LaTeX zdroják.  
+/Index -> Indexové kartičky k zettlu.  
+/Main -> Kartičky s informacemi.  
+/src -> Zdrojové obrázky, dokumenty atp.  
 - - - 
 branching based on 
 [Academic disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
