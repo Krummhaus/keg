@@ -10,8 +10,9 @@ branching based on
 
 
 
-* 1000   Humanities
-* 2000   Social science
-* 3000   Natural science
-* 4000   Formal science
-* 5000   Applied science
+* [1000](https://github.com/Krummhaus/keg/blob/main/Main/1000.md) Humanities
+* [2000](https://github.com/Krummhaus/keg/blob/main/Main/2000.md) Social science
+* [3000](https://github.com/Krummhaus/keg/blob/main/Main/3000.md) Natural science
+* [4000](https://github.com/Krummhaus/keg/blob/main/Main/4000.md) Formal science
+* [5000](https://github.com/Krummhaus/keg/blob/main/Main/5000.md) Applied science
+
