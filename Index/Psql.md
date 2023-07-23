@@ -3,5 +3,5 @@
 * Méně známé příkazy: [4210/1/A](https://github.com/Krummhaus/keg/blob/main/Main/4210_1_A.md)
 * Proměnné: [4210/1/B](https://github.com/Krummhaus/keg/blob/main/Main/4210_1_B.md)
 * Konfigurace PSQL: [4210/2](https://github.com/Krummhaus/keg/blob/main/Main/4210_2.md)
-* PG_DUMP: 4210/3](https://github.com/Krummhaus/keg/blob/main/Main/4210_3.md)
-* Pager: 4210/4](https://github.com/Krummhaus/keg/blob/main/Main/4210_4.md)
+* PG_DUMP: [4210/3](https://github.com/Krummhaus/keg/blob/main/Main/4210_3.md)
+* Pager: [4210/4](https://github.com/Krummhaus/keg/blob/main/Main/4210_4.md)
